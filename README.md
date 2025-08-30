@@ -1,6 +1,9 @@
 Dairy Sales Analytics – Power BI Dashboard
 
 An end-to-end Power BI project analyzing dairy products (Milk, Ghee, Cheese, Butter, Yogurt, etc.) across brand, region, product, shelf life, storage temperature, farm size, land area, and expiry dates. The report answers: Which products and brands drive quantity sold? How do shelf life and storage temperature influence sales? Which regions, farm sizes, and locations contribute most?
+![image alt](<img width="1682" height="789" alt="image" src="https://github.com/user-attachments/assets/f3b66919-f10d-4fca-9431-acc011cb5851" />)
+
+
 
 🔧 Tech Stack
 
